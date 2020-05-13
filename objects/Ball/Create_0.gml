@@ -5,6 +5,6 @@ depth = 0;
 xspeed = 0;
 yspeed = 0;
 zspeed = 0;
-grav = 0.1;
+grav = 0;
 
 alarm[0] = 1000;

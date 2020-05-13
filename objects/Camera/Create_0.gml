@@ -4,6 +4,9 @@
 gpu_set_ztestenable(true);
 gpu_set_zwriteenable(true);
 
+view_mat = undefined;
+proj_mat = undefined;
+
 c_init();
 c_world_create();
 
